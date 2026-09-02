@@ -1,6 +1,6 @@
 {
-    "manufacturer": "Anarchy Sound LLC",
-    "keyboard_name": "Anarchy_QPad",
+    "manufacturer": "Anarchy Sound",
+    "keyboard_name": "QPad",
     "maintainer": "anarchysoundllc",
     "development_board": "kb2040",
     "diode_direction": "COL2ROW",

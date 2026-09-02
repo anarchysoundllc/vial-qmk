@@ -14,8 +14,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * ├───┼───┼
      */
     [0] = LAYOUT(
-        QK_MIDI_NOTE_C_1,   QK_MIDI_NOTE_D_1,
-        QK_MIDI_NOTE_E_1,   QK_MIDI_NOTE_F_1,
-        QK_MIDI_NOTE_G_1,   QK_MIDI_NOTE_A_1
+        MI_C1,   MI_D1,
+        MI_E1,   MI_F1,
+        MI_G1,   MI_A1
     ),
 };
